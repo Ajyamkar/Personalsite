@@ -196,9 +196,17 @@ background: linear-gradient(90deg, rgba(0,26,103,1) 59%, rgba(14,12,14,1) 100%);
 
 .contact{
   background: black;
-  padding-bottom: 1%;
+  padding-bottom: 75%;
   margin-top: 7%;
   text-align: center;
+  background-image: url("https://static6.depositphotos.com/1000792/646/v/950/depositphotos_6465442-stock-illustration-cute-panda-card.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.contact-div{
+  position: relative;
+  top: 15rem;
 }
 
 .visit{
