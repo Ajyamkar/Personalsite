@@ -7,7 +7,7 @@ body{
 
 h1{
   font-size: 1.5em;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
   padding-top: 10%;
   text-align: center;
   color: orangered;
@@ -27,7 +27,7 @@ table{
   margin: 1% 6%;
   text-align: center;
   border-top: 1px solid cyan;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto Slab', serif;
 }
 
 
@@ -95,7 +95,7 @@ tr{
 
 .skill-name{
   color: cyan;
-  font-family: cursive;
+  font-family: 'Roboto Slab', serif;
   margin-bottom: 0;
   margin-top: 10px;
   display: inline-block;
