@@ -1,0 +1,244 @@
+body{
+  /* background-color: black; */
+  background-image: url("https://media.giphy.com/media/3osxYzuMvUJJcqzND2/giphy.gif");
+  font-family: 'Sansita Swashed', cursive;
+
+}
+
+h1{
+  font-size: 1.5em;
+  font-family: cursive;
+  padding-top: 10%;
+  text-align: center;
+  color: orangered;
+}
+
+p{
+  word-spacing: 1.3px;
+}
+
+a{
+  font-family: 'Merriweather', serif;
+}
+
+table{
+  color: yellow;
+  /* width: 46%; */
+  margin: 1% 6%;
+  text-align: center;
+  border-top: 1px solid cyan;
+  font-family: cursive;
+}
+
+
+td{
+  padding: 1% 7%;
+}
+
+tr{
+  border-bottom: 1px solid cyan;
+}
+
+.a-nav:hover{
+  background-color: cyan;
+}
+
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background: transparent;
+    border: 2.5px solid cyan;
+    border-radius: .25rem;
+}
+
+.bio{
+  margin-top: 10%;
+}
+
+.myself{
+  text-align: center;
+  color: gold;
+}
+
+.MyImg{
+  width:50%;
+  border-radius: 50%;
+  margin:10% 25%;
+  margin-bottom: 4%;
+}
+
+.skills-content{
+  color: gold;
+  margin-top: 10px;
+  text-align: center;
+}
+
+* {box-sizing: border-box}
+
+.rating-container {
+  width: 100%;
+  border-radius: 15px;
+  background-color: #ddd;
+  height: 23px;
+  margin-top: 2px;
+}
+
+.skills {
+  border-radius: 7px 0 0 7px;
+  text-align: right;
+  padding-top: 13px;
+  padding-bottom: 10px;
+  color: white;
+
+}
+
+.skill-name{
+  color: cyan;
+  font-family: cursive;
+  margin-bottom: 0;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.fab{
+  color: white;
+}
+
+.jquery-icon{
+  background: white;
+}
+
+.html {
+  width: 90%;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(18,9,121,1) 34%, rgba(0,151,255,1) 100%);
+}
+
+.css {width: 90%;
+  background: rgb(36,0,10);
+  background: linear-gradient(90deg, rgba(36,0,10,1) 0%, rgba(121,9,9,1) 41%, rgba(255,243,0,1) 100%);
+}
+
+
+.bootstrap {
+  width: 85%;
+  background: rgb(32,156,0);
+background: linear-gradient(90deg, rgba(32,156,0,1) 49%, rgba(0,255,16,1) 94%);
+}
+
+
+.js {
+  width: 80%;
+  background: rgb(0,22,117);
+  background: linear-gradient(90deg, rgba(0,22,117,0.9923319669664741) 11%, rgba(0,239,208,1) 92%);
+}
+.jquery {
+  width: 77%;
+  background: rgb(0,26,103);
+background: linear-gradient(90deg, rgba(0,26,103,1) 59%, rgba(14,12,14,1) 100%);
+  }
+.node {
+  width: 75%;
+  background: linear-gradient(90deg, rgba(214,8,8,1) 43%, rgba(253,250,7,1) 104%);
+ }
+
+.express {
+  width: 75%;
+  background: linear-gradient(90deg, rgba(8,19,214,1) 62%, rgba(7,253,213,1) 99%);
+ }
+
+.ejs {
+  width: 72%;
+  background: rgb(106,4,100);
+  background: linear-gradient(90deg, rgba(106,4,100,0.9923319669664741) 63%, rgba(236,127,255,1) 99%);
+}
+
+.mongodb {
+  width: 65%;
+  background: linear-gradient(90deg, rgba(1,20,4,1) 54%, rgba(45,232,54,1) 168%);
+}
+
+.mongoose {
+  width: 62%;
+  background: rgb(255,162,0);
+  background: linear-gradient(90deg, rgba(255,162,0,1) 59%, rgba(255,255,255,1) 100%);
+}
+
+.react {
+  width: 40%;
+  background: rgb(253,0,0);
+  background: linear-gradient(90deg, rgba(253,0,0,0.9923319669664741) 59%, rgba(250,235,241,1) 100%);
+ }
+
+.projects{
+  text-align: center;
+
+}
+
+.projects a{
+  color: cyan;
+  text-decoration: underline;
+}
+
+.project-p{
+  padding:0 3%;
+  color: #e3a817;
+}
+
+.projects-plast{
+  text-align: center;
+    padding: 0;
+    color: #28ff01;
+    margin: 0;
+    padding-right: 3%;
+}
+
+.contact{
+  background: black;
+  padding-bottom: 1%;
+  margin-top: 7%;
+  text-align: center;
+}
+
+.visit{
+  border: none;
+  color: white;
+  margin-top: 2%;
+  background: #000080;
+  padding: 2% 4%;
+  border-radius: 5px;
+}
+
+.img-fb{
+  margin: 0 2%;
+}
+
+.img-insta{
+  margin: 0 2.5% 0 2%;
+}
+
+.img-whatsapp{
+  background: #1de31d;
+  height: 31px;
+  padding: 1%;
+  border-radius: 4px;
+  padding-left: 1.5%;
+  margin: 0 0.8%;
+  margin-right: 3.3%;
+}
+
+.img-gmail{
+  height: 31px;
+  padding: 1.5%;
+  border-radius: 4px;
+  background: white;
+}
+
+.copyright{
+  text-align: center;
+  margin-top: 2%;
+  color: grey;
+  font-size: 8px;
+  font-family: monospace;
+}
