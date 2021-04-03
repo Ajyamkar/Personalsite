@@ -155,18 +155,18 @@ background: linear-gradient(90deg, rgba(0,26,103,1) 59%, rgba(14,12,14,1) 100%);
 }
 
 .mongodb {
-  width: 65%;
+  width: 80%;
   background: linear-gradient(90deg, rgba(1,20,4,1) 54%, rgba(45,232,54,1) 168%);
 }
 
 .mongoose {
-  width: 62%;
+  width: 80%;
   background: rgb(255,162,0);
   background: linear-gradient(90deg, rgba(255,162,0,1) 59%, rgba(255,255,255,1) 100%);
 }
 
 .react {
-  width: 40%;
+  width: 78%;
   background: rgb(253,0,0);
   background: linear-gradient(90deg, rgba(253,0,0,0.9923319669664741) 59%, rgba(250,235,241,1) 100%);
  }
